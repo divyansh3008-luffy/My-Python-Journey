@@ -1,0 +1,5 @@
+print("Hello World")
+print("hello luffy")
+print("im good brother")
+print(3)
+print("divyansh")
